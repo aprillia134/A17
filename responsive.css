@@ -1,0 +1,41 @@
+@media all and (max-width: 1000px) {
+    .topnav {
+        font-size: 12px;
+    }
+    .top-wrapper {
+        margin-bottom: 50px;
+      }
+    .top-wrapper h1 {
+        font-size: 32px;
+      }
+    .top-wrapper p {
+        font-size: 20px;
+    }
+    .top-wrapper h3 {
+        font-size: 10px;
+    }
+}
+@media all and (max-width: 670px) {
+    .topnav {
+        font-size: 12px;
+    }
+    .top-wrapper {
+        width: 100%;
+    }
+    footer {
+        text-align: center;
+    }
+
+    .top-wrapper h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .top-wrapper p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .top-wrapper h3 {
+        font-size: 10px;
+        line-height: 15px;
+    }
+}
